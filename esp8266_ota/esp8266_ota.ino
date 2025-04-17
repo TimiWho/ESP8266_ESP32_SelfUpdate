@@ -10,7 +10,7 @@ BearSSL::CertStore certStore;
 const String FirmwareVer={"2.2"}; 
 #define URL_fw_Version "https://raw.githubusercontent.com//TimiWho/ESP8266_ESP32_SelfUpdate/blob/master/esp8266_ota/bin_version.txt"
 //#define URL_fw_Version "/programmer131/otaFiles/master/version.txt"
-#define URL_fw_Bin "https://raw.githubusercontent.com/TimiWho/ESP8266_ESP32_SelfUpdate/blob/master/esp8266_ota/esp8266_ota.ino.d1_mini.bin" //https://upgrade.timi.at/
+#define URL_fw_Bin "https://raw.githubusercontent.com/TimiWho/ESP8266_ESP32_SelfUpdate/blob/master/esp8266_ota/fw.bin" //https://upgrade.timi.at/
 const char* host = "raw.githubusercontent.com";
 const int httpsPort = 443;
 
