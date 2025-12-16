@@ -89,7 +89,7 @@ void loop() {
  
     Serial.println(F("Update start now!"));
  
-     t_httpUpdate_return ret = ESPhttpUpdate.update(client, "https://upgrade.timi.at/fw.bin");
+     t_httpUpdate_return ret = ESPhttpUpdate.update(client, "https://upgrade.timi.at/esp8266_ota.ino.d1_mini.bin");
     // Or:
 //    t_httpUpdate_return ret = ESPhttpUpdate.update(client, "192.168.1.70", 3000, "/update", FIRMWARE_VERSION);
  
