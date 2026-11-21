@@ -1,7 +1,5 @@
 # ESP8266_ESP32_SelfUpdate
 
-[Kurze Änderungsübersicht](AENDERUNGEN_README_2026-10-21.md)
-
 ## 🚀 Firmware selbst vom Server laden – zwei getrennte OTA-Beispiele
 
 ![Plattform](https://img.shields.io/badge/Plattform-ESP8266%20/%20ESP32-blue) ![Schnittstelle](https://img.shields.io/badge/Schnittstelle-HTTP%28S%29--Download-orange)
@@ -10,7 +8,7 @@ Beispielsammlung für selbst gestartete Firmware-Downloads. Die ESP32- und ESP82
 
 **Dokumentationsstand:** 21.10.2026 · Branch `master`. Beschreibt den vorhandenen Projektstand; kein neuer Funktionstest am Gerät.
 
-[Quellcode herunterladen](https://github.com/TimiWho/ESP8266_ESP32_SelfUpdate/archive/refs/heads/master.zip) · [Ursprüngliche Haupt-README](README_Backup_2026-10-21.md)
+[Quellcode herunterladen](https://github.com/TimiWho/ESP8266_ESP32_SelfUpdate/archive/refs/heads/master.zip)
 
 ---
 
